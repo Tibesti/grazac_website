@@ -1,0 +1,180 @@
+.fastyle{
+    padding-right:5px;
+}
+@media (min-width:768px) {
+    .ddash1{
+        width:25%;
+        float:left;
+    }
+    .ddash2{
+        width:75%;
+        float:right;
+    }
+}
+@media (max-width:768px) {
+    .ddash1{
+        display:none;
+    }
+}
+
+.dwid1{
+    margin:0px 0 0 50px;
+    padding-top:100px;
+    line-height:60px;
+}
+.dcard1{
+    box-shadow: 0px 10px 16px rgba(255, 255, 255, 0.16), 0px 4px 6px rgba(0, 0, 0, 0.06);
+    padding:40px 30px 30px;
+}
+.dbtn1{
+    color:white;
+    background-color:#200937;
+    border:2px solid #200937;
+    padding: 10px 20px 10px 20px;
+    text-align:center;
+    font-size:18px;
+    margin:20px 0 0px;
+    display:block;
+    border-radius:50px;
+    float:right;
+}
+.dtext1 a{
+    color:white;
+    font-size:17px;
+}
+.dtext1 a:hover{
+    color:white;
+    font-size:17px;
+    text-decoration:none;
+}
+.dtext2{
+    color:#ff0606;
+    font-size:17px;
+}
+.dcard2{
+    margin:30px;
+}
+.dtext3{
+    font-size:16px;
+}
+.dtext4{
+    color: #7805EB;
+}
+
+.dinput{
+    border-top:1px solid transparent;
+    border-left:1px solid transparent;
+    border-right:1px solid transparent;
+    border-bottom:1px solid black;
+    width:90%;
+    padding-bottom:10px;
+}
+.dbtn2{
+    color:#E2DFDF;
+    background-color:#200937;
+    padding: 10px 20px 10px 20px;
+    text-align:center;
+    font-size:18px;
+    display:block;
+    border-radius:50px;
+    border: 1px solid #200937;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 16px rgba(91, 0, 183, 0.16), 0px 4px 6px rgba(0, 0, 0, 0.06);
+    margin:30px auto 50px;
+    display:block;
+}
+.dbtn3{
+    color:#E2DFDF;
+    background-color:#200937;
+    padding: 10px 20px 10px 20px;
+    text-align:center;
+    font-size:18px;
+    display:block;
+    border-radius:50px;
+    border: 1px solid #200937;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 16px rgba(91, 0, 183, 0.16), 0px 4px 6px rgba(0, 0, 0, 0.06);
+    margin:30px 0 50px;
+    display:block;
+}
+@media(max-width:768px){
+    .dcard3{
+        box-shadow:0px 10px 16px rgba(196, 196, 196, 0.16), 0px 4px 6px rgba(0, 0, 0, 0.06);
+        padding:40px 30px 30px;
+        margin: 20px 25px 20px;
+    }
+    .dinput{
+        margin-top:40px;
+    }
+    .dcard4{
+        padding:40px 30px 30px;
+    }
+}
+@media(min-width:768px){
+    .dsid1{
+        float:left;
+        width:50%;
+    }
+    .dcard4{
+        padding:40px 30px 150px;
+    }
+}
+.dcard4{
+    box-shadow:0px 10px 16px rgba(196, 196, 196, 0.16), 0px 4px 6px rgba(0, 0, 0, 0.06);
+    margin: 20px 25px 20px;
+}
+
+.dsid2{
+    float:right;
+    width:50%;
+}
+.dcard5{
+    box-shadow:0px 10px 16px rgba(196, 196, 196, 0.16), 0px 4px 6px rgba(0, 0, 0, 0.06);
+    padding:40px 30px 30px;
+    margin: 40px 25px 20px;
+}
+.dcard6{
+    box-shadow:0px 10px 16px rgba(196, 196, 196, 0.16), 0px 4px 6px rgba(0, 0, 0, 0.06);
+    padding:40px 30px 10px;
+    margin: 20px 25px 20px;
+}
+.dtext5{
+    font-weight:bold;
+    font-size:40px;
+    color: #3A3939;
+    padding:20px 0 20px;
+}
+.dsid3{
+    background: rgba(198, 198, 198, 0.5);
+    padding:10px 0 10px;
+}
+@media(min-width:768px){
+    .dsid4{
+        width:60%;
+    }
+}
+@media(max-width:768px){
+    .dsid4{
+        width:80%;
+    }
+}
+.dinput1{
+    border-top:1px solid transparent;
+    border-left:1px solid transparent;
+    border-right:1px solid transparent;
+    border-bottom:1px solid black;
+    width:100%;
+    padding-bottom:10px;
+    margin:20px 10px 0px;
+}
+
+
+
+
+
+
+
+
+.trew{
+    color:red;
+}
